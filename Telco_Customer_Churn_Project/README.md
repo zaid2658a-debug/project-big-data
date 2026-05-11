@@ -74,22 +74,5 @@ The model was evaluated using:
 2. Upload the dataset CSV file.
 3. Run all cells from top to bottom.
 
-## Team Study Division
-
-### Member 1
-Dataset and problem overview.
-
-### Member 2
-Data cleaning and string column handling.
-
-### Member 3
-Data analysis and insights.
-
-### Member 4
-Machine Learning model and pipeline.
-
-### Member 5
-Model evaluation and results.
-
 ## Conclusion
 This project demonstrates how PySpark can be used for data analysis and machine learning. The model predicts customer churn based on customer information such as contract type, tenure, monthly charges, payment method, and internet services.
